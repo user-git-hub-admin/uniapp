@@ -1,0 +1,19 @@
+
+.indexHead{overflow: hidden;padding: 10px 0;}
+.indexHead .date,.indexHead .daily{float: left;}
+.indexHead .date{font-weight: bold;border-right: 1px solid #D3D3D3;padding: 0 15px;}
+.indexHead .date text{display: block;font-size: 12px;}
+.indexHead .hours{font-weight: normal;}
+.indexHead .daily{font-size: 28px;font-weight: bold;padding-left: 15px;}
+.indexHead .homePage{float: right;padding: 5px 15px 0 0;}
+.indexHead .homePage image{width: 35px;height:35px;}
+.indexBanner image{width: 100%;height: 100%;}
+.texts{position: absolute;left: 0;top: 150px;color: #fff;}
+.texts .author{display: block;font-size: 14px;color: #999;padding-top: 5px;}
+.listDl{padding: 15px;}
+.listDl ._dl{overflow: hidden;padding: 10rpx 0;}
+.listDl ._dl ._dt image{width: 85px;height: 80px;border-radius: 5px;}
+.listDl ._dl ._dt{float: right;}
+.listDl ._dl ._dd{font-size: 16px;font-weight: bold;}
+.listDl ._dl .read{font-size: 14px;color: #999;padding-top: 20rpx;font-weight: normal;}
+

@@ -1,0 +1,1 @@
+<view><view class="replay"><image src="../../static/images/back.png" data-event-opts="{{[['tap',[['replays']]]]}}" bindtap="__e"></image>回复谁<text data-event-opts="{{[['tap',[['issue']]]]}}" class="blue" bindtap="__e">发布</text></view><view class="lun">友善的评论是交流的起点</view></view>

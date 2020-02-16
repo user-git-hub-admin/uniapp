@@ -1,0 +1,18 @@
+
+.comms{text-align: center;position: relative;overflow: hidden;padding: 10px;}
+.comms image{width: 25px;height: 25px;vertical-align: middle;position: absolute;left: 0;top: 7px;}
+.comment,.comms{border-bottom: 1px solid #E5E5E5;}
+.comms,.sum,.commDl .first{font-weight: bold;}
+.commDl,.sum{padding: 10px 20px;}
+.commDl ._dt image{width: 35px;height: 35px;border-radius: 50px;}
+.commDl ._dt{float: left;}
+.commDl ._dd{padding-left: 10px;overflow: hidden;line-height: 30px;font-size: 14px;}
+.commDl ._dd image{width: 20px;height: 20px;vertical-align: middle;}
+.commDl .first{position: relative;}
+.commDl .first .more{position: absolute;right: 0px;top: 0;}
+.commDl .times{padding-left: 30px;}
+.commDl .time{position: relative;width: 100%;color: #ccc;}
+.commDl .time .one{position: absolute;bottom: px;right: 80px;}
+.commDl .time .two{float: right;padding-right: 20px;}
+.commDl .time .all{position: absolute;right: 102px;top: -2px;}
+
